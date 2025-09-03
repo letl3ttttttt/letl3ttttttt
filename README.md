@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Letícia Costa, tenho 17 anos e sou da zona sul de São Paulo. Estou no ultimo ano do ensino médio, sou jovem aprendiz, estudando de manhã e a tarde trabalhando como auxiliar admnistrativa. 
+Me chamo Letícia Costa, tenho 18 anos e sou da zona sul de São Paulo. Estou no ultimo ano do ensino médio, sou jovem aprendiz, estudando de manhã, e a tarde trabalhando como auxiliar admnistrativa. 
 <p align="left">
     <a href="https://www.youtube.com/@letl3ttttttt?sub_confirmation=1">
         <img 
